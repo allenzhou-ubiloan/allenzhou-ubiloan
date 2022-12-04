@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Allen.
 
-<details>
+<details open>
 <summary>My top languages</summary>
   
 | Rank | Languages |
@@ -34,3 +34,7 @@ Hi, I'm Allen.
 |     3| Python    |
   
 </details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
