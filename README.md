@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 
 Hi, I'm Allen.
 
+<details>
+<summary>My top languages</summary>
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
 |     2| Java      |
 |     3| Python    |
+  
+</details>
